@@ -1,2 +1,3 @@
-streamlit run Code\Music_Genre_App.py
+streamlit run Code/Music_Genre_App.py
+
 
